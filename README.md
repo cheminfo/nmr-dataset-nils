@@ -6,4 +6,5 @@ This series of exercises is provided by Dr Nils Schloerer.
 
 Links to series
 
+* [medium](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-nils/toc_medium.json)
 * [simple](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-nils/toc_simple.json)

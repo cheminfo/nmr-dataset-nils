@@ -1,0 +1,52 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./medium/02/1D_NOE.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./medium/02/1h.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./medium/02/apt.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./medium/02/cosy.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./medium/02/hmbc.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./medium/02/hmqc.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    }
+  ]
+}
