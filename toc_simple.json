@@ -1,0 +1,24 @@
+[
+  {
+    "id": "5a7LIdJ2V1/1rae/FcP9jqiNxl0=",
+    "mf": "C9H11NO",
+    "idCodeHash": "841bc23036b14c65796ffc482962484f",
+    "file": "./simple/01/index.json",
+    "title": "Exercise 1",
+    "selected": true
+  },
+  {
+    "id": "Ya6uVdeJNYtiXmuRujq7bbB0tBw=",
+    "mf": "C10H12O",
+    "idCodeHash": "d164aba7017e732cfa661231baec432f",
+    "file": "./simple/02/index.json",
+    "title": "Exercise 2"
+  },
+  {
+    "id": "ZXBtnrXTomZb3qksTeI0hLmxHSQ=",
+    "mf": "C6H11NO",
+    "idCodeHash": "823e6434c8d01e10e3fe8fbf124e522c",
+    "file": "./simple/03/index.json",
+    "title": "Exercise 3"
+  }
+]
