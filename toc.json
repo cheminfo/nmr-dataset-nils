@@ -120,6 +120,41 @@
     "title": "91-64-5"
   },
   {
+    "groupName": "advanced",
+    "folderName": "advanced",
+    "children": [
+      {
+        "id": "cZf5oWI6BdIXxU7qMMUhSNyMcqc=",
+        "mf": "C6H4N2O2BrF",
+        "idCodeHash": "5c32fe5ebfc0eb69a8ff881fc59d54a4",
+        "file": "./advanced/01/index.json",
+        "title": "Exercise 1",
+        "selected": true
+      },
+      {
+        "id": "1VYceKovOkvRtx+qHY6oduUbQEA=",
+        "mf": "C6H12O6",
+        "idCodeHash": "0803b83ca45f0dba82a10eef85ea293a",
+        "file": "./advanced/02/index.json",
+        "title": "Exercise 2"
+      },
+      {
+        "id": "Ej4IVnNKnQ9/i1F4UOBhBum91g0=",
+        "mf": "C9H19NO4",
+        "idCodeHash": "f886a9e54f84d57214abc7452b70c4b7",
+        "file": "./advanced/03/index.json",
+        "title": "Exercise 3"
+      },
+      {
+        "id": "6sPBgieqBfwnpqXzd+ZNuN6/3/o=",
+        "mf": "C10H20O",
+        "idCodeHash": "1d86339218fe84f8fbca74d3b9e308c1",
+        "file": "./advanced/04/index.json",
+        "title": "Exercise 4"
+      }
+    ]
+  },
+  {
     "groupName": "medium",
     "folderName": "medium",
     "children": [
@@ -128,22 +163,21 @@
         "mf": "C8H8NOF3",
         "idCodeHash": "97ed7a5fca4e18d5b85a7a1cb4e1311f",
         "file": "./medium/01/index.json",
-        "title": "Exercise 1",
-        "selected": true
+        "title": "Exercise 5"
       },
       {
         "id": "PnpMheaSPYM6k0FvMlYOhvz78zw=",
         "mf": "C9H6O2",
         "idCodeHash": "4859a90bbfbeee73fb9f5a776b175951",
         "file": "./medium/02/index.json",
-        "title": "Exercise 2"
+        "title": "Exercise 6"
       },
       {
         "id": "2JF0fOJ5/iApRxFgN76fGcWMpuI=",
         "mf": "C9H8O4",
         "idCodeHash": "d14124446a2ac9e8182f3033cae26a9b",
         "file": "./medium/03/index.json",
-        "title": "Exercise 3"
+        "title": "Exercise 7"
       }
     ]
   },
@@ -156,21 +190,21 @@
         "mf": "C9H11NO",
         "idCodeHash": "841bc23036b14c65796ffc482962484f",
         "file": "./simple/01/index.json",
-        "title": "Exercise 4"
+        "title": "Exercise 8"
       },
       {
         "id": "Ya6uVdeJNYtiXmuRujq7bbB0tBw=",
         "mf": "C10H12O",
         "idCodeHash": "d164aba7017e732cfa661231baec432f",
         "file": "./simple/02/index.json",
-        "title": "Exercise 5"
+        "title": "Exercise 9"
       },
       {
         "id": "ZXBtnrXTomZb3qksTeI0hLmxHSQ=",
         "mf": "C6H11NO",
         "idCodeHash": "823e6434c8d01e10e3fe8fbf124e522c",
         "file": "./simple/03/index.json",
-        "title": "Exercise 6"
+        "title": "Exercise 10"
       }
     ]
   }

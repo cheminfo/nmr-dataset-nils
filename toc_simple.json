@@ -4,7 +4,7 @@
     "mf": "C9H11NO",
     "idCodeHash": "841bc23036b14c65796ffc482962484f",
     "file": "./simple/01/index.json",
-    "title": "Exercise 4",
+    "title": "Exercise 8",
     "selected": true
   },
   {
@@ -12,13 +12,13 @@
     "mf": "C10H12O",
     "idCodeHash": "d164aba7017e732cfa661231baec432f",
     "file": "./simple/02/index.json",
-    "title": "Exercise 5"
+    "title": "Exercise 9"
   },
   {
     "id": "ZXBtnrXTomZb3qksTeI0hLmxHSQ=",
     "mf": "C6H11NO",
     "idCodeHash": "823e6434c8d01e10e3fe8fbf124e522c",
     "file": "./simple/03/index.json",
-    "title": "Exercise 6"
+    "title": "Exercise 10"
   }
 ]
