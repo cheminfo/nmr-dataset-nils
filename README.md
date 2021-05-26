@@ -6,6 +6,7 @@ This series of exercises is provided by Dr Nils Schloerer.
 
 Links to series
 
-* [advanced](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-nils/toc_advanced.json)
-* [medium](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-nils/toc_medium.json)
-* [simple](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-nils/toc_simple.json)
+* [Simple series](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-nils/toc_01_simple.json)
+* [Medium level](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-nils/toc_02_medium.json)
+* [Advanced level](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-nils/toc_03_advanced.json)
+* [Miscellaneous spectra](https://www.nmrium.org/teaching#?toc=https://cheminfo.github.io/nmr-dataset-nils/toc_04_others.json)

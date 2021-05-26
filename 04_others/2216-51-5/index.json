@@ -1,0 +1,60 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./04_others/2216-51-5/13c.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./04_others/2216-51-5/1h.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./04_others/2216-51-5/apt.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./04_others/2216-51-5/cosy.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./04_others/2216-51-5/hmbc.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./04_others/2216-51-5/hsqced.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./04_others/2216-51-5/noesy.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    }
+  ]
+}

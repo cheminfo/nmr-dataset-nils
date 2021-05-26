@@ -1,0 +1,76 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./04_others/403-40-7/13c.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./04_others/403-40-7/13c_1h-19f-dec.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./04_others/403-40-7/13c_1h-dec.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./04_others/403-40-7/19f.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./04_others/403-40-7/19f_1h-dec.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./04_others/403-40-7/1h-19f-dec.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./04_others/403-40-7/1h.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./04_others/403-40-7/fc-cosy.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./04_others/403-40-7/hf-hoesy.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    }
+  ]
+}
