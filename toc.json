@@ -118,33 +118,5 @@
     "idCodeHash": "4859a90bbfbeee73fb9f5a776b175951",
     "file": "./91-64-5/index.json",
     "title": "91-64-5"
-  },
-  {
-    "groupName": "simple",
-    "folderName": "simple",
-    "children": [
-      {
-        "id": "LCagI3CtntJ4zfk7f6kHI4KI/zo=",
-        "mf": "C9H19NO4",
-        "idCodeHash": "f886a9e54f84d57214abc7452b70c4b7",
-        "file": "./simple/01/index.json",
-        "title": "Exercise 1",
-        "selected": true
-      },
-      {
-        "id": "XCpo0HghbTOH1gcz0UMpODuWlXY=",
-        "mf": "C8H8NOF3",
-        "idCodeHash": "97ed7a5fca4e18d5b85a7a1cb4e1311f",
-        "file": "./simple/02/index.json",
-        "title": "Exercise 2"
-      },
-      {
-        "id": "HysAJTP4SUSSVyVYkTpOCqQjPTs=",
-        "mf": "C6H4N2O2BrF",
-        "idCodeHash": "5c32fe5ebfc0eb69a8ff881fc59d54a4",
-        "file": "./simple/03/index.json",
-        "title": "Exercise 3"
-      }
-    ]
   }
 ]
