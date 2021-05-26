@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./57946-61-9/19f-400MHz.dx"
+        "jcampURL": "./simple/03/19f.dx"
       },
       "display": {
         "name": ""
@@ -10,7 +10,7 @@
     },
     {
       "source": {
-        "jcampURL": "./57946-61-9/1h-400MHz.dx"
+        "jcampURL": "./simple/03/19f_1h-dec.dx"
       },
       "display": {
         "name": ""
@@ -18,7 +18,7 @@
     },
     {
       "source": {
-        "jcampURL": "./57946-61-9/1h-600MHz.dx"
+        "jcampURL": "./simple/03/1h.dx"
       },
       "display": {
         "name": ""
@@ -26,7 +26,7 @@
     },
     {
       "source": {
-        "jcampURL": "./57946-61-9/cosy.dx"
+        "jcampURL": "./simple/03/1h_19f-dec.dx"
       },
       "display": {
         "name": ""
@@ -34,7 +34,7 @@
     },
     {
       "source": {
-        "jcampURL": "./57946-61-9/deptq.dx"
+        "jcampURL": "./simple/03/deptq.dx"
       },
       "display": {
         "name": ""
@@ -42,7 +42,7 @@
     },
     {
       "source": {
-        "jcampURL": "./57946-61-9/fh-cosy-400MHz.dx"
+        "jcampURL": "./simple/03/fc-hsqc.dx"
       },
       "display": {
         "name": ""
@@ -50,7 +50,7 @@
     },
     {
       "source": {
-        "jcampURL": "./57946-61-9/hf-hoesy-400MHz.dx"
+        "jcampURL": "./simple/03/hf-hoesy.dx"
       },
       "display": {
         "name": ""
@@ -58,7 +58,7 @@
     },
     {
       "source": {
-        "jcampURL": "./57946-61-9/hmbc.dx"
+        "jcampURL": "./simple/03/hmbc.dx"
       },
       "display": {
         "name": ""
@@ -66,7 +66,7 @@
     },
     {
       "source": {
-        "jcampURL": "./57946-61-9/hmqc.dx"
+        "jcampURL": "./simple/03/hmqc.dx"
       },
       "display": {
         "name": ""
@@ -74,7 +74,7 @@
     },
     {
       "source": {
-        "jcampURL": "./57946-61-9/noesy.dx"
+        "jcampURL": "./simple/03/noesy.dx"
       },
       "display": {
         "name": ""

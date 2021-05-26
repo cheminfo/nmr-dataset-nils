@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./517920-70-6/19f.dx"
+        "jcampURL": "./simple/01/1D-noe_3-71.dx"
       },
       "display": {
         "name": ""
@@ -10,7 +10,7 @@
     },
     {
       "source": {
-        "jcampURL": "./517920-70-6/19f_1h-dec.dx"
+        "jcampURL": "./simple/01/1D-noe_7-75.dx"
       },
       "display": {
         "name": ""
@@ -18,7 +18,7 @@
     },
     {
       "source": {
-        "jcampURL": "./517920-70-6/1h.dx"
+        "jcampURL": "./simple/01/1h.dx"
       },
       "display": {
         "name": ""
@@ -26,7 +26,7 @@
     },
     {
       "source": {
-        "jcampURL": "./517920-70-6/1h_19f-dec.dx"
+        "jcampURL": "./simple/01/apt.dx"
       },
       "display": {
         "name": ""
@@ -34,7 +34,7 @@
     },
     {
       "source": {
-        "jcampURL": "./517920-70-6/deptq.dx"
+        "jcampURL": "./simple/01/cosy.dx"
       },
       "display": {
         "name": ""
@@ -42,7 +42,7 @@
     },
     {
       "source": {
-        "jcampURL": "./517920-70-6/fc-hsqc.dx"
+        "jcampURL": "./simple/01/hmbc.dx"
       },
       "display": {
         "name": ""
@@ -50,7 +50,7 @@
     },
     {
       "source": {
-        "jcampURL": "./517920-70-6/hf-hoesy.dx"
+        "jcampURL": "./simple/01/hmqc.dx"
       },
       "display": {
         "name": ""
@@ -58,23 +58,7 @@
     },
     {
       "source": {
-        "jcampURL": "./517920-70-6/hmbc.dx"
-      },
-      "display": {
-        "name": ""
-      }
-    },
-    {
-      "source": {
-        "jcampURL": "./517920-70-6/hmqc.dx"
-      },
-      "display": {
-        "name": ""
-      }
-    },
-    {
-      "source": {
-        "jcampURL": "./517920-70-6/noesy.dx"
+        "jcampURL": "./simple/01/hn-hsqc.dx"
       },
       "display": {
         "name": ""
