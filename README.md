@@ -13,4 +13,5 @@ by comparison of 1J correlation and HMBC (long range): Cross peaks without 1J co
 
 This series of exercises is provided by Dr Nils Schloerer.
 
-<-- LINKS -->
+https://nmr.chemie.uni-koeln.de/en/research
+https://nmrshiftdb.nmr.uni-koeln.de/
