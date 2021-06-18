@@ -2486,7 +2486,7 @@ $$ --------------------------
 ##$SIGF2= 0
 ##$SINO= 400
 ##$SIOLD= 16384
-##$SPECTYP= <UNDEFINED>
+##$SPECTYP= <NOESY>
 ##$SREF_mod= 1
 ##$SREGLST= <1H.CDCl3>
 ##$SSB= 0
