@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./04_others/91-64-5/13c.dx"
+        "jcampURL": "./13c.dx"
       },
       "display": {
         "name": ""
@@ -10,7 +10,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/91-64-5/1D_NOE.dx"
+        "jcampURL": "./1D_NOE.dx"
       },
       "display": {
         "name": ""
@@ -18,7 +18,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/91-64-5/1h.dx"
+        "jcampURL": "./1h.dx"
       },
       "display": {
         "name": ""
@@ -26,7 +26,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/91-64-5/apt.dx"
+        "jcampURL": "./apt.dx"
       },
       "display": {
         "name": ""
@@ -34,7 +34,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/91-64-5/cosy.dx"
+        "jcampURL": "./cosy.dx"
       },
       "display": {
         "name": ""
@@ -42,7 +42,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/91-64-5/dept135.dx"
+        "jcampURL": "./dept135.dx"
       },
       "display": {
         "name": ""
@@ -50,7 +50,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/91-64-5/hmbc.dx"
+        "jcampURL": "./hmbc.dx"
       },
       "display": {
         "name": ""
@@ -58,7 +58,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/91-64-5/hmqc.dx"
+        "jcampURL": "./hmqc.dx"
       },
       "display": {
         "name": ""

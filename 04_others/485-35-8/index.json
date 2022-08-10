@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./04_others/485-35-8/13c.dx"
+        "jcampURL": "./13c.dx"
       },
       "display": {
         "name": ""
@@ -10,7 +10,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/485-35-8/1h.dx"
+        "jcampURL": "./1h.dx"
       },
       "display": {
         "name": ""
@@ -18,7 +18,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/485-35-8/cosy.dx"
+        "jcampURL": "./cosy.dx"
       },
       "display": {
         "name": ""
@@ -26,7 +26,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/485-35-8/dept135.dx"
+        "jcampURL": "./dept135.dx"
       },
       "display": {
         "name": ""
@@ -34,7 +34,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/485-35-8/dept45.dx"
+        "jcampURL": "./dept45.dx"
       },
       "display": {
         "name": ""
@@ -42,7 +42,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/485-35-8/dept90.dx"
+        "jcampURL": "./dept90.dx"
       },
       "display": {
         "name": ""
@@ -50,7 +50,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/485-35-8/deptq.dx"
+        "jcampURL": "./deptq.dx"
       },
       "display": {
         "name": ""
@@ -58,7 +58,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/485-35-8/hmbc.dx"
+        "jcampURL": "./hmbc.dx"
       },
       "display": {
         "name": ""
@@ -66,7 +66,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/485-35-8/hnHMQC.dx"
+        "jcampURL": "./hnHMQC.dx"
       },
       "display": {
         "name": ""
@@ -74,7 +74,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/485-35-8/hsqc.dx"
+        "jcampURL": "./hsqc.dx"
       },
       "display": {
         "name": ""
@@ -82,7 +82,7 @@
     },
     {
       "source": {
-        "jcampURL": "./04_others/485-35-8/noesy.dx"
+        "jcampURL": "./noesy.dx"
       },
       "display": {
         "name": ""
