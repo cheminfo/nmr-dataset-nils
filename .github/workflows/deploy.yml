@@ -18,7 +18,7 @@ jobs:
         run: |
           npm i nmrium-cli --global
           npx nmrium deleteJSONs
-          npx nmrium createExercisesTOC
+          npx nmrium createExercisesTOC -i true -s true
           npx nmrium deleteStructures
           npx nmrium appendLinks
           git status
