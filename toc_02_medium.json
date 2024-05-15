@@ -1,0 +1,27 @@
+[
+  {
+    "id": "WTs7RIDHXnXneOirZS+2BM+lQyk=",
+    "mf": "C8H8NOF3",
+    "idCodeHash": "97ed7a5fca4e18d5b85a7a1cb4e1311f",
+    "file": "./02_medium/01/index.json",
+    "title": "Exercise 4",
+    "idCode": "dknHpChIAICICHiBeDeevjh@H@@",
+    "selected": true
+  },
+  {
+    "id": "PnpMheaSPYM6k0FvMlYOhvz78zw=",
+    "mf": "C9H6O2",
+    "idCodeHash": "4859a90bbfbeee73fb9f5a776b175951",
+    "file": "./02_medium/02/index.json",
+    "title": "Exercise 5",
+    "idCode": "dmLD@@QIe[VfeVi@B@@"
+  },
+  {
+    "id": "2JF0fOJ5/iApRxFgN76fGcWMpuI=",
+    "mf": "C9H8O4",
+    "idCodeHash": "d14124446a2ac9e8182f3033cae26a9b",
+    "file": "./02_medium/03/index.json",
+    "title": "Exercise 6",
+    "idCode": "dklB@@QmR[fUxUZBBF@@"
+  }
+]
