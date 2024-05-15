@@ -17,10 +17,10 @@ jobs:
       - name: install nmrium and create toc
         run: |
           npm i nmrium-cli --global
-          npx nmrium deleteJSONs
-          npx nmrium createExercisesTOC -i true -s true
-          npx nmrium deleteStructures
-          npx nmrium appendLinks
+          nmrium deleteJSONs
+          nmrium createExercisesTOC -i true -s true
+          nmrium deleteStructures
+          nmrium appendLinks
           git status
           git remote -v
       - name: push to gh-pages
